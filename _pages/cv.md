@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<a href="http://bit.ly/ShadabResume" style="color: #333333;">Download Resume</a>
+<a href="http://bit.ly/2R4CKl0" style="color: #333333;">Download Resume</a>
 <center><h1>Shadab Hussain</h1></center>
 <center> <a href="linkedin.com/in/shadabhussain96" style="color: #333333;">linkedin.com/in/shadabhussain96</a> | <a href="https://www.shadabhussain.com" style="color: #333333;">https://www.shadabhussain.com</a> | <a href="medium.com/@shadab.hussain01" style="color: #333333;">medium.com/@shadab.hussain01</a> </center>
 <br>
