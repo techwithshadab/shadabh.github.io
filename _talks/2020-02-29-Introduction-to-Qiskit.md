@@ -17,6 +17,7 @@ You will get some practical experience and develop intuition for the following c
 
 This workshop was conducted as the part one of series of the workshop for hands-on tutorial on Qiskit.
 
+Resources:
 * [Slides](http://bit.ly/IntroToQiskit)
 * [Code](http://bit.ly/IntrotoQiskitCode)
 * [Blog](http://bit.ly/IntroToQiskitBlog)
