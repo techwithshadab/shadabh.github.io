@@ -12,7 +12,8 @@ This workshop introduces you to qiskit, its element and help you in setting up a
 You will get some practical experience and develop intuition for the following concepts:
 * What is Qiskit?
 * Elements of Qiskit
-* How to program on Quantum Simulators? (Using IBM Cloud)
+* Creating Quantum Circuits
+* How to program on Quantum Simulators (Using IBM Cloud)
 * How to program on actual Quantum Computers provided on IBM Cloud using Qiskit
 
 This workshop was conducted as the part one of series of the workshop for hands-on tutorial on Qiskit.
