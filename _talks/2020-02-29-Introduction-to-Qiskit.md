@@ -3,7 +3,7 @@ title: "Introduction to Qiskit"
 collection: talks
 type: "Workshop"
 permalink: /talks/2020-02-29-Introduction-to-Qiskit
-venue: "Commune Coworks"
+venue: "Quantum Computing India, Commune Coworks"
 date: 2020-02-29
 location: "Bangalore, India"
 ---
