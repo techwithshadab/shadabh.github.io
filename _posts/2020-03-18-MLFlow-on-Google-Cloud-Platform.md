@@ -48,7 +48,7 @@ In this post, I will show how to deploy an [MLflow tracking](https://www.mlflow.
 Follow these steps to set up the mlflow server on Compute Engine:
 
 **Step 1:** Create VM instance based on Ubuntu Linux 18.04 LTS
-
+<script src="https://gist.github.com/shadab-entrepreneur/7179f8e227e8f284211db2f2e98a1a3e.js"></script>
 Installing mlflow
 
 **Step 2:** Install mlflow on VM — SSH your VM either from the console or Putty and run the following commands to install `mlflow`
@@ -70,14 +70,14 @@ As you can see `172.18.x.x` is the internal IP. Run mlflow server using this com
 Start mlflow server on Internal IP
 
 **Step 4:** Check from VM instance (from second connection) using `curl -I [http://172.18.x.x:5000](http://172.18.x.x:5000)`
-
+<script src="https://gist.github.com/shadab-entrepreneur/549dd63815314eb0df17c3a3feea6793.js"></script>
 Checking Instance from Another Connection
 ![](https://cdn-images-1.medium.com/max/800/1*5vJbMOWbu1rqiDeRo38n8w.png)
 
 **Step 5:** [Set Network Tag](https://cloud.google.com/vpc/docs/add-remove-network-tags) mlflow-server
 
 **Step 6:** [Create a Firewall Rule](https://cloud.google.com/vpc/docs/using-firewalls#creating_firewall_rules) to allow access on port 5000
-
+<script src="https://gist.github.com/shadab-entrepreneur/86b57d404ea3081a3f1a4034d69c630a.js"></script>
 Firewall Rule to open Port 5000
 
 **Step 7:** Check from on-premises Linux machine `nmap -Pn 32.1.XXX.XXX`
@@ -115,7 +115,7 @@ Here you need to either add a new member or use existing member if any and give 
 **Step 5:** Finally, run this command on both client and server to access Google Cloud Storage- `pip install google-cloud-storage`
 
 **Step 6:** Start the MLflow tracking server by giving bucket path as default artifact directory and use internal IP to spin off the run server. It will use port 5000 by default:
-
+<script src="https://gist.github.com/shadab-entrepreneur/51e5cb83a960b9a596089f47b58b98fb.js"></script>
 Run mlflow server
 
 **Step 7:** Now we can access your server using its public IP [http://x.x.x.x:5000/](http://35.225.xxx.xxx:5000/)
@@ -130,15 +130,15 @@ As you can observe, `Artifact Location` has been set to the storage bucket path 
 
 *   Get the [service account json](https://cloud.google.com/storage/docs/authentication#generating-a-private-key)
 *   Set the following environment variable in your notebook, or you can set it from your shell also
-
+<script src="https://gist.github.com/shadab-entrepreneur/6348b5683e0b8549a56c72a9640af944.js"></script>
 Service Account Credentials Setup
 
 *   Run this code for authentication:
-
+<script src="https://gist.github.com/shadab-entrepreneur/69c5fe6c265a798adec644b01cd3b65a.js"></script>
 Client Authentication
 
 **Step 2:** Run this [code](https://gist.github.com/shadab-entrepreneur/0688927c9a98a7c4e39f1e3a838f5307) with different values of `alpha` and `l1_ratio` & log metrics, parameters, and artifacts. Also, in `mlflow.set_tracking_uri("http://x.x.x.x:5000")` replace `x.x.x.x` with your external IP in the code:
-
+<script src="https://gist.github.com/shadab-entrepreneur/0688927c9a98a7c4e39f1e3a838f5307.js"></script>
 If you will go to external IP (Public DNS), you can see different versions of the model you have run:
 
 ![](https://cdn-images-1.medium.com/max/800/1*IKCPvz8yNt00JR1QMflZXA.png)
