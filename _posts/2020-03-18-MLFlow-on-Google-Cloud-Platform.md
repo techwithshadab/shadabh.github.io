@@ -11,8 +11,6 @@ tags:
   - Google Cloud
   - Model Monitoring
 ---
-# MLFlow on Google Cloud Platform
-
 Running mlflow on Google Compute Engine VM and logging artifacts on Google Storage Bucket
 
 ![](https://cdn-images-1.medium.com/max/800/0*qdv2QFEuRZ-7IMNR.jpeg)
@@ -159,19 +157,7 @@ There is a lot more you can do with it, like contour plot for alpha, l1\_ratio, 
 
 So, here onwards you can experiment on your own and share your findings in the comment.
 
-Other blog posts by me:
-
-*   [Building a Convolutional Neural Network: Male 👨 vs Female 👩](https://towardsdatascience.com/building-a-convolutional-neural-network-male-vs-female-50347e2fa88b)
-*   [Build your first Machine Learning Model using TensorFlow](https://towardsdatascience.com/build-your-first-machine-learning-model-using-tensorflow-d61b9b2b7d5e)
-*   [Optimizing Jupyter Notebook: Tips, Tricks, and nbextensions](https://towardsdatascience.com/optimizing-jupyter-notebook-tips-tricks-and-nbextensions-26d75d502663)
-*   [Use cases of different Machine Learning Algorithms](https://medium.com/@shadab.hussain01/machine-learning-algorithms-use-cases-72646df1245f)
-*   [Steps To Activate Free Access To Datacamp, Pluralsight, LinkedIn Learning, Etc Through Visual Studio Dev Essentials Program](https://www.c-sharpcorner.com/blogs/steps-to-activate-free-access-to-datacamp-pulralsight-linkedin-learning-etc-through-visual-studio-dev-essentials-program)
-*   [My MozFest Experience and First Talk](https://medium.com/@shadab.hussain01/tweet-driven-mozfest-storytelling-mozfest-2018-170345534d08)
-
-Questions? Comments? Feel free to leave them in the comment section, also you can follow and connect with me on [LinkedIn](https://www.linkedin.com/in/shadabhussain96/).
 
 By [Shadab Hussain](https://medium.com/@shadab.hussain01) on [March 18, 2020](https://medium.com/p/cd8c9b04a2d8).
 
 [Canonical link](https://medium.com/@shadab.hussain01/mlflow-on-google-cloud-platform-cd8c9b04a2d8)
-
-Exported from [Medium](https://medium.com) on March 18, 2020.
