@@ -3,7 +3,7 @@ title: "Data Science and Machine Learning using Python"
 collection: talks
 type: "Workshop"
 permalink: /talks/2020-03-14-Data-Science-and-Machine-Learning-using-Python
-venue: "Sreenivasa Institute of Technology and Management Studies
+venue: "Sreenivasa Institute of Technology and Management Studies"
 date: 2020-03-14
 location: "Chittoor, India"
 ---
