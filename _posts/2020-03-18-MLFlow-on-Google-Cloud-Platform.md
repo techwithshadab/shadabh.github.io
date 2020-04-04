@@ -160,4 +160,4 @@ So, here onwards you can experiment on your own and share your findings in the c
 
 By [Shadab Hussain](https://medium.com/@shadab.hussain01) on [March 18, 2020](https://medium.com/p/cd8c9b04a2d8).
 
-[Canonical link](https://medium.com/@shadab.hussain01/mlflow-on-google-cloud-platform-cd8c9b04a2d8)
+[Canonical link](https://medium.com/faun/mlflow-on-google-cloud-platform-cd8c9b04a2d8)
