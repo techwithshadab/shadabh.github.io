@@ -7,7 +7,7 @@ venue: "GirlScript, Zoom Call"
 date: 2020-03-31
 location: "Bangalore, India"
 ---
-This lecture was organized by GirlScript as part of the #CovidCodingProgram's expert guide for Data Science to help others understand about data science and career scope in it.
+This lecture was organized by GirlScript as part of the #CovidCodingProgram's expert guide for Data Science to help others understand about data science and it's scope.
 
 Attendees got some practical experience and develop intuition for the following concepts:
 
