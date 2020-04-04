@@ -18,5 +18,4 @@ Attendees got some practical experience and develop intuition for the following 
 * Learning Data Science
 * Portfolio building
 
-Resources:
-* [Slides](http://bit.ly/DSExploratoryCareer)
+[Slides](http://bit.ly/DSExploratoryCareer)
