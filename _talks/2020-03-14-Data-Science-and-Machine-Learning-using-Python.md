@@ -13,5 +13,6 @@ Students and Faculties got some practical experience and develop intuition for t
 * Data Science and It's lifecycle
 * Machine Learning and It's types
 * Applications of ML
-* Basice of Neural Networks
+* Basics of Neural Networks
+* Deep Learning Applications
 * Hands-on session
