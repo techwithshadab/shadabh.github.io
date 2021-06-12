@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Shadab is a Data Scientist at [The Math Company](https://themathcompany.com). Before, he worked as an Associate Data Scientist at [Proven Consult](https://provenconsult.com) and a Systems Engineer (Data Science) at [Infosys Ltd](https://www.infosys.com/). He has earned a Post Graduate Diploma in Data Science from the International Institute of Information Technology (India) and a Bachelor of Technology degree in Computer Science and Engineering from Dr. A.P.J. Abdul Kalam Technical University (India). <br/>
+Shadab is an Assistant Manager-Data Science at [Genpact](http://genpact.com/). Before, he worked as a Data Scientist at [The Math Company](https://themathcompany.com), an Associate Data Scientist at [Proven Consult](https://provenconsult.com) and a Systems Engineer (Data Science) at [Infosys Ltd](https://www.infosys.com/). He has earned a Post Graduate Diploma in Data Science from the International Institute of Information Technology (India) and a Bachelor of Technology degree in Computer Science and Engineering from Dr. A.P.J. Abdul Kalam Technical University (India). <br/>
 <br/>
 His area of research interests include:
 * Quantum Machine Learning
