@@ -13,7 +13,7 @@ name                     : &name "Shadab Hussain"
 description              : &description "Data Scientist at The Math Co."
 url                      : https://shadabhussain.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "hussain-shadab/shadabh.github.io"
+repository               : "techwithshadab/shadabh.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "shadab-entrepreneur"
+  github           : "techwithshadab"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : "5718264/shadab-hussain"
   steam            :
   tumblr           :
-  twitter          : "shadabhusain786"
+  twitter          : "techwithshadab"
   vine             :
   weibo            :
   xing             :
